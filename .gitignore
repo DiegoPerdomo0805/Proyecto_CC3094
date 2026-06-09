@@ -1,0 +1,13 @@
+data/
+*.csv
+*.pcap
+*.zip
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
